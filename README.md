@@ -1,6 +1,6 @@
 <!-- Header -->
-<h1 align="center">Hello, I'm Amit Jha</h1>
-<p align="center">Frontend Developer | React Enthusiast</p>
+<h1 align="center">👋 Hello, I'm Amit</h1>
+<p align="center">🚀 Frontend Developer | React Enthusiast</p>
 
 <!-- Badges/Icons -->
 <p align="center">
@@ -8,54 +8,57 @@
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack">
 </p>
 
 <!-- Introduction -->
 <p align="center">
-  Welcome to my GitHub profile! I'm a frontend developer with a passion for crafting pixel-perfect web experiences using React.
+  Welcome to my GitHub profile! I'm passionate about creating interactive and elegant web applications using React.
 </p>
 
 <!-- Skills -->
 <h2 align="center">Skills</h2>
 <p align="center">
   💻 React | Redux | React Router <br>
-  🎨 Styled Components | CSS Modules <br>
+  🎨 Styled Components | CSS-in-JS <br>
   🌐 HTML5 | CSS3 | JavaScript | TypeScript <br>
-  🚀 Frontend Optimization | Performance Tuning <br>
-  ⚙️ Webpack | Babel | Git
+  🚀 Performance Optimization | Responsive Design <br>
+  ⚙️ Webpack | Git | RESTful APIs
 </p>
 
-<!-- Projects -->
+<!-- Featured Projects -->
 <h2 align="center">Featured Projects</h2>
 
-<!-- Project 1 -->
-<p align="center">
-  <a href="link-to-project-1">
-    <img src="project-1-screenshot.jpg" alt="Project 1" width="600px">
-  </a>
-  <br>
-  <strong>Project 1</strong> - A stunning React app that does XYZ. [Demo](link-to-demo) | [Code](link-to-repo)
-</p>
 
 <!-- Project 2 -->
+<p align="center">
+  <a href="link-to-project">
+    <img src="(https://github.com/jhamit04/image/blob/main/Screenshot%202023-09-10%20233648.png)" alt="Project 2" width="800px">
+  </a>
+  <br>
+  <strong>Project:</strong> An interactive dashboard showcasing real-time data. [(https://github.com/jhamit04/ReactPractice/tree/master/MovieSearch/movie_app)](link-to-repo)
+</p>
 
+<!-- Developer Quote -->
+<h2 align="center">Random Developer Quote</h2>
+<p align="center">
+  "It's not a bug, it's a feature." 😄
+</p>
 
 <!-- GitHub Stats -->
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhamit04&show_icons=true&theme=dark" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark" alt="GitHub Stats">
 </p>
 
 <!-- Contact Information -->
 <h2 align="center">Connect with Me</h2>
 <p align="center">
   📧 Email: jhamit04@gmail.com <br>
-  🌐 LinkedIn: (https://www.linkedin.com/in/your-username/)](https://www.linkedin.com/in/amit-kumar-jha-7629a5128/) <br>
+  🌐 LinkedIn: https://www.linkedin.com/in/amit-kumar-jha-7629a5128/ <br>
 </p>
 
 <!-- Footer -->
 <p align="center">
-  Thanks for stopping by! Let's build something amazing together.
+  Thanks for visiting! Let's collaborate and build amazing web experiences together.
 </p>
 
