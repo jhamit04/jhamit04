@@ -39,16 +39,12 @@
 </p>
 
 <!-- Project 2 -->
-<p align="center">
-  <a href="https://github.com/jhamit04/ReactPractice/tree/master/MovieSearch/movie_app">
-    <img src="![Screenshot 2023-09-10 233648](https://github.com/jhamit04/jhamit04/assets/126517787/882f2841-0337-4d1d-8f14-278aa1a6c892)
-" 
-</p>
+
 
 <!-- GitHub Stats -->
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=jhamit04&show_icons=true&theme=dark" alt="GitHub Stats">
 </p>
 
 <!-- Contact Information -->
