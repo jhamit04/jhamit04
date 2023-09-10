@@ -35,7 +35,7 @@
     <img src="(https://github.com/jhamit04/image/blob/main/Screenshot%202023-09-10%20233648.png)" alt="Project 2" width="800px">
   </a>
   <br>
-  <strong>Project:</strong> An interactive dashboard showcasing real-time data. [(https://github.com/jhamit04/ReactPractice/tree/master/MovieSearch/movie_app)](link-to-repo)
+  <strong>Project:</strong> An interactive dashboard showcasing real-time data. [(https://github.com/jhamit04/ReactPractice/tree/master/MovieSearch/movie_app)]
 </p>
 
 <!-- Developer Quote -->
