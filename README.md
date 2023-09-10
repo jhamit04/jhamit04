@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">Hello, I'm [Your Name]</h1>
+<h1 align="center">Hello, I'm Amit Jha</h1>
 <p align="center">Frontend Developer | React Enthusiast</p>
 
 <!-- Badges/Icons -->
@@ -40,11 +40,9 @@
 
 <!-- Project 2 -->
 <p align="center">
-  <a href="link-to-project-2">
-    <img src="project-2-screenshot.jpg" alt="Project 2" width="600px">
-  </a>
-  <br>
-  <strong>Project 2</strong> - Another amazing project showcasing your skills. [Demo](link-to-demo) | [Code](link-to-repo)
+  <a href="https://github.com/jhamit04/ReactPractice/tree/master/MovieSearch/movie_app">
+    <img src="![Screenshot 2023-09-10 233648](https://github.com/jhamit04/jhamit04/assets/126517787/882f2841-0337-4d1d-8f14-278aa1a6c892)
+" 
 </p>
 
 <!-- GitHub Stats -->
@@ -56,9 +54,8 @@
 <!-- Contact Information -->
 <h2 align="center">Connect with Me</h2>
 <p align="center">
-  📧 Email: your.email@example.com <br>
-  🌐 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-username/) <br>
-  🐦 Twitter: [@yourTwitterHandle](https://twitter.com/yourTwitterHandle)
+  📧 Email: jhamit04@gmail.com <br>
+  🌐 LinkedIn: (https://www.linkedin.com/in/your-username/)](https://www.linkedin.com/in/amit-kumar-jha-7629a5128/) <br>
 </p>
 
 <!-- Footer -->
