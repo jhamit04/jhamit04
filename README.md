@@ -32,7 +32,7 @@
 <!-- Project 2 -->
 <p align="center">
   <a href="link-to-project">
-    <img src="(https://github.com/jhamit04/image/blob/main/Screenshot%202023-09-10%20233648.png)" alt="Project 2" width="800px">
+    <img src="Screenshot 2023-09-10 233648.png" alt="Project 2" width="800px">
   </a>
   <br>
   <strong>Project:</strong> An interactive dashboard showcasing real-time data. [(https://github.com/jhamit04/ReactPractice/tree/master/MovieSearch/movie_app)]
