@@ -49,6 +49,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jhamit04&show_icons=true&theme=dark" alt="GitHub Stats">
 </p>
+<!-- profile views -->
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Amit&label=Profile%20Views&color=9&icon=5&pretty=false" />
+</a>
 
 <!-- Contact Information -->
 <h2 align="center">Connect with Me</h2>
